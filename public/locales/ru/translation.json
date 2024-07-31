@@ -10,5 +10,7 @@
   "throw error": "throw error",
   "Главная": "Главная",
   "Переключить": "Переключить",
-  "Короткий язык": "Ru"
+  "Короткий язык": "Ru",
+  "increment": "increment",
+  "decrement": "decrement"
 }
