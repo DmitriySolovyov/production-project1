@@ -12,5 +12,10 @@
   "Переключить": "Переключить",
   "Короткий язык": "En",
   "increment": "increment",
-  "decrement": "decrement"
+  "decrement": "decrement",
+  "Вы ввели неверный логин или пароль": "Uncorrect username or password",
+  "Форма авторизации": "Auth form",
+  "Введите username": "Enter username",
+  "Введите пароль": "Enter password",
+  "Выйти": "Выйти"
 }
